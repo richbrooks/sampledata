@@ -1,0 +1,41 @@
+Transaction_ID,RCCC_ID,Fiscal_Year,Transaction_Date,Transaction_Type,Amount,Vendor,Reference_Number,Notes
+1,2,2025,2025-01-22,Expense,12450.00,CareerBuilder LLC,INV-2025-00142,January job board postings and recruitment advertising
+2,3,2025,2025-01-31,Expense,8200.00,Deloitte Advisory Services,INV-2025-00178,Monthly retainer for external audit support services
+3,4,2025,2025-02-05,Expense,45000.00,Microsoft Corporation,INV-2025-00201,Annual Microsoft 365 enterprise license renewal
+4,5,2025,2025-02-12,Expense,18750.00,CleanFacilities Inc,INV-2025-00215,February janitorial and building maintenance services
+5,6,2025,2025-02-18,Expense,32100.00,Industrial Supply Co,INV-2025-00230,Field equipment and PPE restocking for East Region
+6,7,2025,2025-02-18,Expense,28900.00,Industrial Supply Co,INV-2025-00231,Field equipment and PPE restocking for West Region
+7,9,2025,2025-02-25,Expense,61500.00,BioTech Innovations Ltd,INV-2025-00248,R&D laboratory supplies and specialized reagents
+8,10,2025,2025-03-01,Expense,5400.00,PrintWorks LLC,INV-2025-00263,Community outreach printed materials and event collateral
+9,1,2025,2025-03-08,Expense,14200.00,Global Meetings Group,INV-2025-00281,Q1 executive leadership conference registration and travel
+10,11,2025,2025-03-15,Expense,22000.00,eLearning Solutions Inc,INV-2025-00299,Online training platform subscription and course licenses
+11,4,2025,2025-03-22,Expense,37800.00,CyberShield Security,INV-2025-00312,Network security assessment and vulnerability remediation
+12,8,2025,2025-03-28,Expense,41200.00,Central Fleet Services,INV-2025-00328,Q1 fleet maintenance and fuel costs for Central Region
+13,12,2025,2025-04-03,Expense,9800.00,Grant Compliance Partners,INV-2025-00344,Grant reporting and compliance consulting services
+14,3,2025,2025-04-10,Expense,16500.00,Payroll Systems Inc,INV-2025-00361,Quarterly payroll processing and tax filing fees
+15,6,2025,2025-04-17,Expense,53000.00,Horizon Staffing Group,INV-2025-00378,Temporary staffing augmentation for East Region peak season
+16,2,2025,2025-04-24,Expense,7650.00,Employee Benefits Corp,INV-2025-00392,Supplemental employee wellness program costs
+17,5,2025,2025-05-02,Expense,24300.00,AirComfort HVAC,INV-2025-00408,Spring HVAC maintenance and filter replacement across facilities
+18,9,2025,2025-05-09,Expense,47800.00,Prototype Labs Inc,INV-2025-00424,Prototype fabrication for new product development phase 2
+19,13,2025,2025-05-16,Expense,38500.00,McKinsey Consulting,INV-2025-00441,Strategic planning facilitation and market analysis report
+20,7,2025,2025-05-23,Expense,66200.00,West Coast Operations LLC,INV-2025-00458,Major equipment overhaul for West Region field stations
+21,14,2025,2025-06-01,Expense,28000.00,Anderson Legal Group,INV-2025-00474,Contract review and regulatory filing preparation
+22,4,2025,2025-06-08,Expense,19400.00,CloudFirst Technologies,INV-2025-00491,Cloud infrastructure setup for new data platform
+23,10,2025,2025-06-15,Expense,11200.00,EventPros Agency,INV-2025-00507,Community outreach summer event planning and execution
+24,8,2025,2025-06-22,Expense,35600.00,Midwest Equipment Co,INV-2025-00523,Central Region capital equipment purchase - survey units
+25,11,2025,2025-06-29,Expense,17900.00,Leadership Academy Inc,INV-2025-00539,Management training workshop delivery and materials
+26,3,2025,2025-07-07,Expense,8100.00,Deloitte Advisory Services,INV-2025-00556,Monthly retainer for external audit support services
+27,6,2025,2025-07-14,Expense,44700.00,East Regional Contractors,INV-2025-00572,Q3 field maintenance contracts and scheduled inspections
+28,2,2025,2025-07-21,Expense,31200.00,HealthFirst Benefits,INV-2025-00589,Employee health benefit premium payments - July
+29,9,2025,2025-07-28,Expense,52300.00,TechVenture Partners,INV-2025-00605,R&D collaboration agreement milestone payment
+30,5,2025,2025-08-04,Expense,16800.00,SpaceWorks Inc,INV-2025-00621,Office furniture and workstation reconfiguration project
+31,12,2025,2025-08-11,Expense,78500.00,Federal Grant Disbursement,GRT-2025-00637,Pass-through grant disbursement to sub-recipient organizations
+32,4,2025,2025-08-18,Expense,92000.00,CyberShield Security,INV-2025-00654,Emergency cybersecurity incident response and remediation
+33,7,2025,2025-08-25,Expense,29400.00,West Coast Operations LLC,INV-2025-00670,West Region routine maintenance and inspection services
+34,13,2025,2025-09-01,Expense,21600.00,DataInsights Corp,INV-2025-00686,Business intelligence dashboards and analytics reporting
+35,1,2025,2025-09-08,Expense,8900.00,Executive Travel Services,INV-2025-00702,Q3 executive travel and conference attendance expenses
+36,11,2025,2025-09-15,Expense,13400.00,eLearning Solutions Inc,INV-2025-00719,Additional course licenses for expanded training program
+37,6,2025,2025-09-22,Expense,37800.00,East Regional Contractors,INV-2025-00735,Q4 field equipment deployment and installation
+38,8,2025,2025-09-29,Expense,48200.00,Central Fleet Services,INV-2025-00751,Q3 fleet maintenance and fuel costs for Central Region
+39,3,2025,2025-10-06,Expense,11300.00,Payroll Systems Inc,INV-2025-00768,Quarterly payroll processing and tax filing fees
+40,9,2025,2025-10-13,Expense,67100.00,BioTech Innovations Ltd,INV-2025-00784,R&D phase 3 laboratory testing and analysis services
