@@ -1,16 +1,16 @@
 RCCC_ID,RCCC_Code,RCCC_Name,RCCC_Type,Division,Department,Active_Flag,Description
-1,A100,Executive Office,Administrative,Executive,Executive Office,Y,Top-level administrative cost center for executive leadership
-2,A110,Human Resources,Administrative,Corporate Services,Human Resources,Y,Manages personnel recruitment, benefits, and employee relations
-3,A120,Finance and Accounting,Administrative,Corporate Services,Finance,Y,Responsible for financial reporting, payroll, and accounts management
-4,A130,Information Technology,Administrative,Corporate Services,Information Technology,Y,Manages IT infrastructure, software, and technical support
-5,A140,Facilities Management,Administrative,Corporate Services,Facilities,Y,Oversees building operations, maintenance, and space planning
-6,O100,Operations - East Region,Operational,Operations,East Region,Y,Field operations covering the eastern service territory
-7,O110,Operations - West Region,Operational,Operations,West Region,Y,Field operations covering the western service territory
-8,O120,Operations - Central Region,Operational,Operations,Central Region,Y,Field operations covering the central service territory
-9,P100,Research and Development,Program,Programs,R&D,Y,Conducts applied research and product development initiatives
-10,P110,Community Outreach,Program,Programs,Community Relations,Y,Manages public engagement and community partnership programs
-11,P120,Training and Education,Program,Programs,Training,Y,Delivers workforce training and professional development programs
-12,P130,Grants Administration,Program,Programs,Grants,Y,Administers federal, state, and private grant funding
-13,S100,Strategic Planning,Support,Strategy,Strategic Planning,Y,Leads long-range planning and organizational strategy
-14,S110,Legal and Compliance,Support,Corporate Services,Legal,Y,Provides legal counsel and ensures regulatory compliance
-15,Z100,Legacy Programs - Closed,Administrative,Corporate Services,Archive,N,Archived cost center for discontinued legacy programs
+1,A100,Executive Office,Administrative,Executive,Executive Office,Y,"Top-level administrative cost center for executive leadership"
+2,A110,Human Resources,Administrative,Corporate Services,Human Resources,Y,"Manages personnel recruitment, benefits, and employee relations"
+3,A120,Finance and Accounting,Administrative,Corporate Services,Finance,Y,"Responsible for financial reporting, payroll, and accounts management"
+4,A130,Information Technology,Administrative,Corporate Services,Information Technology,Y,"Manages IT infrastructure, software, and technical support"
+5,A140,Facilities Management,Administrative,Corporate Services,Facilities,Y,"Oversees building operations, maintenance, and space planning"
+6,O100,Operations - East Region,Operational,Operations,East Region,Y,"Field operations covering the eastern service territory"
+7,O110,Operations - West Region,Operational,Operations,West Region,Y,"Field operations covering the western service territory"
+8,O120,Operations - Central Region,Operational,Operations,Central Region,Y,"Field operations covering the AOR"
+9,P100,Research and Development,Program,Programs,R&D,Y,"Conducts applied research and product development initiatives"
+10,P110,Community Outreach,Program,Programs,Community Relations,Y,"Manages public engagement and community partnership programs"
+11,P120,Training and Education,Program,Programs,Training,Y,"Delivers workforce training and professional development programs"
+12,P130,Grants Administration,Program,Programs,Grants,Y,"Administers federal, state, and private grant funding"
+13,S100,Strategic Planning,Support,Strategy,Strategic Planning,Y,"Leads long-range planning and organizational strategy"
+14,S110,Legal and Compliance,Support,Corporate Services,Legal,Y,"Provides legal counsel and ensures regulatory compliance"
+15,Z100,Legacy Programs - Closed,Administrative,Corporate Services,Archive,N,"Archived cost center for discontinued legacy programs"
