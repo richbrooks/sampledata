@@ -1,26 +1,26 @@
 Budget_ID,RCCC_ID,Fiscal_Year,Budget_Date,Amount,Budget_Officer,Approval_Status,Notes
-1,1,2025,2025-01-15,250000.00,Sarah Mitchell,Approved,Annual budget allocation for executive office operations and leadership activities
-2,2,2025,2025-01-15,415000.00,James Thornton,Approved,HR budget covering recruitment costs and employee benefit administration
-3,3,2025,2025-01-15,380000.00,Sarah Mitchell,Approved,Finance and accounting operational budget including audit and compliance costs
-4,4,2025,2025-01-15,620000.00,David Nguyen,Approved,IT infrastructure refresh and software licensing for the fiscal year
-5,5,2025,2025-01-15,290000.00,David Nguyen,Approved,Facilities maintenance and capital improvement projects
-6,6,2025,2025-01-15,875000.00,Linda Okafor,Approved,East Region field operations including staffing and equipment
-7,7,2025,2025-01-15,910000.00,Linda Okafor,Approved,West Region field operations including staffing and equipment
-8,8,2025,2025-01-15,830000.00,Marcus Rivera,Approved,Central Region field operations including staffing and equipment
-9,9,2025,2025-01-15,540000.00,Patricia Chen,Approved,R&D project funding for new product development initiatives
-10,10,2025,2025-01-15,175000.00,Patricia Chen,Approved,Community outreach events and partnership program funding
-11,11,2025,2025-01-15,210000.00,James Thornton,Approved,Training curriculum development and delivery costs
-12,12,2025,2025-01-15,460000.00,Patricia Chen,Approved,Grant management and administration overhead allocation
-13,13,2025,2025-01-15,195000.00,Sarah Mitchell,Approved,Strategic planning initiatives and consulting engagements
-14,14,2025,2025-01-15,330000.00,Rachel Osei,Approved,Legal fees, compliance programs, and regulatory filings
-15,1,2025,2025-06-20,30000.00,Sarah Mitchell,Approved,Mid-year budget amendment for executive travel and conferences
-16,4,2025,2025-07-10,85000.00,David Nguyen,Approved,Emergency supplemental for unplanned cybersecurity remediation
-17,6,2025,2025-08-05,50000.00,Linda Okafor,Pending,Supplemental request for East Region equipment replacement
-18,9,2025,2025-09-12,75000.00,Patricia Chen,Approved,Additional R&D funding for accelerated product timeline
-19,2,2026,2026-01-10,435000.00,James Thornton,Approved,FY2026 HR budget with 5% increase for compensation adjustments
-20,3,2026,2026-01-10,395000.00,Sarah Mitchell,Approved,FY2026 Finance budget reflecting new regulatory reporting requirements
-21,4,2026,2026-01-10,680000.00,David Nguyen,Approved,FY2026 IT budget for cloud migration and ERP upgrade project
-22,6,2026,2026-01-10,920000.00,Linda Okafor,Approved,FY2026 East Region budget with expanded service territory
-23,7,2026,2026-01-10,940000.00,Linda Okafor,Approved,FY2026 West Region budget with two new staff positions
-24,8,2026,2026-01-10,855000.00,Marcus Rivera,Approved,FY2026 Central Region budget with updated equipment schedule
-25,11,2026,2026-01-10,230000.00,James Thornton,Approved,FY2026 Training budget for new onboarding program rollout
+1,1,2025,2025-01-15,250000.00,Sarah Mitchell,Approved,"Annual budget allocation for executive office operations and leadership activities"
+2,2,2025,2025-01-15,415000.00,James Thornton,Approved,"HR budget covering recruitment costs and employee benefit administration"
+3,3,2025,2025-01-15,380000.00,Sarah Mitchell,Approved,"Finance and accounting operational budget including audit and compliance costs"
+4,4,2025,2025-01-15,620000.00,David Nguyen,Approved,"IT infrastructure refresh and software licensing for the fiscal year"
+5,5,2025,2025-01-15,290000.00,David Nguyen,Approved,"Facilities maintenance and capital improvement projects"
+6,6,2025,2025-01-15,875000.00,Linda Okafor,Approved,"East Region field operations including staffing and equipment"
+7,7,2025,2025-01-15,910000.00,Linda Okafor,Approved,"West Region field operations including staffing and equipment"
+8,8,2025,2025-01-15,830000.00,Marcus Rivera,Approved,"Central Region field operations including staffing and equipment"
+9,9,2025,2025-01-15,540000.00,Patricia Chen,Approved,"R&D project funding for new product development initiatives"
+10,10,2025,2025-01-15,175000.00,Patricia Chen,Approved,"Community outreach events and partnership program funding"
+11,11,2025,2025-01-15,210000.00,James Thornton,Approved,"Training curriculum development and delivery costs"
+12,12,2025,2025-01-15,460000.00,Patricia Chen,Approved,"Grant management and administration overhead allocation"
+13,13,2025,2025-01-15,195000.00,Sarah Mitchell,Approved,"Strategic planning initiatives and consulting engagements"
+14,14,2025,2025-01-15,330000.00,Rachel Osei,Approved,"Legal fees, compliance programs, and regulatory filings"
+15,1,2025,2025-06-20,30000.00,Sarah Mitchell,Approved,"Mid-year budget amendment for executive travel and conferences"
+16,4,2025,2025-07-10,85000.00,David Nguyen,Approved,"Emergency supplemental for unplanned cybersecurity remediation"
+17,6,2025,2025-08-05,50000.00,Linda Okafor,Pending,"Supplemental request for East Region equipment replacement"
+18,9,2025,2025-09-12,75000.00,Patricia Chen,Approved,"Additional R&D funding for accelerated product timeline"
+19,2,2026,2026-01-10,435000.00,James Thornton,Approved,"FY2026 HR budget with 5% increase for compensation adjustments"
+20,3,2026,2026-01-10,395000.00,Sarah Mitchell,Approved,"FY2026 Finance budget reflecting new regulatory reporting requirements"
+21,4,2026,2026-01-10,680000.00,David Nguyen,Approved,"FY2026 IT budget for cloud migration and ERP upgrade project"
+22,6,2026,2026-01-10,920000.00,Linda Okafor,Approved,"FY2026 East Region budget with expanded service territory"
+23,7,2026,2026-01-10,940000.00,Linda Okafor,Approved,"FY2026 West Region budget with two new staff positions"
+24,8,2026,2026-01-10,855000.00,Marcus Rivera,Approved,"FY2026 Central Region budget with updated equipment schedule"
+25,11,2026,2026-01-10,230000.00,James Thornton,Approved,"FY2026 Training budget for new onboarding program rollout"
